@@ -1,0 +1,12 @@
+Tehtävä 2 (max 12 pistettä).
+a) Tee sellainen Java-kielinen ohjelma, jossa on luokka Kyna ja sillä
+attribuutit hinta ja vari ja naille Java-standardin mukaiset getterit ja setterit.
+
+b) Tee luokka LyijyKyna, jossa on attribuutti kovuus ja silla Java-standardin
+mukainen getteri ja setteri. Luokan tulee periä luokka Kyna.
+
+c) Tee pääohjelma (main-metodin sisältävä luokka), jossa luot kaksi LyijyKyna-
+tyyppistä oliota ja laitat ne ArrayListiin ja tallennat ArrayListin tiedostoon
+kynatdsto.txt.
+
+Palauta tekemäsi .java-tiedostot erillisinä tiedostoina.

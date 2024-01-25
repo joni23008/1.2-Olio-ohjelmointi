@@ -1,0 +1,30 @@
+Tee luokka Puhelin, jossa on ominaisuuksina (attribuutteina)
+id, merkki, tyyppi ja taajuus. Puhelin voi olla lankapuhelin, jolloin siinä
+ei ole taajuutta lainkaan, vaan se jätetään null-arvoiseksi. Muissa puhelimissa
+taajuus voi olla 450, 900 tai 900/1800.
+
+Tee luokkaan oletusmuodostimen näköinen parametriton muodostin sekä
+muodostimet, joilla voidaan antaa arvot attribuuteille id, merkki ja tyyppi sekä ominaisuuksille
+id, merkki, tyyppi ja taajuus.
+
+Tee luokkaan myös getterit ja setterit kaikille attribuuteille.
+
+Tee myös luokka (main metodin sisältävä) PuhelinKauppa, jossa luodaan kolme puhelinta
+käyttäen kullekin eri muodostinta. Siis yksi käyttäen parametritonta muodostinta, jolloin sille
+täytyy antaa arvot settereillä, yksi käyttäen lankapuhelimelle tarkoitettua muodostinta ja
+yksi, joka on esimerkiksi NMT tai GSM -puhelimelle.
+
+Tee lisäksi kaikkien puhelinten tietojen tulostus aliohjelmassa.
+
+
+
+Muuta edellisen tehtävän luokkaa Puhelin siten, että siinä on ylikuormitettuna
+metodi setTaajuus siten, että sille voidaan antaa myös taajuus yhdella kokonaisluvulla
+tai kahdella kokonaisluvulla. Näiden metodien tulee rakentaa annetusta taajuudesta
+merkkijono, joka sopii edellisessä tehtävässä olevaan taajuuden muotoon ja siis
+asettaa tuo saatu merkkijono attribuutin taajuus arvoksi.
+
+Tee myös luokka PuhelinKauppa uusiksi siten, että siinä luodaan kolme puhelinta
+käyttäen oletusmuodostimen nälöistä parametritonta muodostinta ja puhelimille annetaan
+arvot settereillä. Anna yhdelle puhelimista taajuus käyttäen alkuperäsitä setteria ja
+kaksi muuta käyttäen näitä kahta uutta setteriä.

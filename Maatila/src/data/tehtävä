@@ -1,0 +1,11 @@
+Tee luokka Traktori, 
+id (int) = merkkijono ja enemmän ku 0
+merkki (String) = väh 5 merkkiä
+malli (String) = väh 5 merkkiä
+teho (int) = merkkijono ja 30-250
+
+tee taulukko johon laitat
+kolme traktori oliota
+tiedot kysytään näppäimmistöllä metodilla
+tulosta tiedot tämän jälkeen
+ toString metodilla

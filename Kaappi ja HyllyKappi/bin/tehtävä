@@ -1,0 +1,11 @@
+pinta-ala = pituus ON syvyys x leveys
+tilavuus = pituus x leveys x korkeus
+
+
+Tee luokka Kaappi: attribuutit leveys, korkeus, syvyyys, getterit ja setterit, 
+getTilavuus, muodostimet erilaisilla parametrimaarillä
+
+Tee luokka Hyllykaappi, joka perii luokan Kaappi: attribuutit hyllymaara, 
+getHyllyPintaAla, muodostimet erilaisilla parametrimaarillä
+
+Tee luokkia testaava ohjelma: yksi kaappi ja yksi hyllykaappi (arvot literaaleina) ja niiden tallennus tiedostoon

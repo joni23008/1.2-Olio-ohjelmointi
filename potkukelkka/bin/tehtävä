@@ -1,0 +1,6 @@
+Tee luokka Potkukelkka, jossa on ominaisuudet leveys, pituus, vari ja valmistaja.
+Lisää luokkaa getterit ja setterit.
+
+Tee myös luokkaa käyttävä ohjelma KelkkaVarasto, joka luo yhden Potkukelkka-olion, antaa sen
+attribuuteille arvot settereillä ja tulostaa lopuksi olion attribuuttien arvot käyttäen
+PotkuKelkka-luokan gettereitä.

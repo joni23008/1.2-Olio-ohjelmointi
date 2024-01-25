@@ -1,0 +1,11 @@
+Tee luokka Leipa, jossa on muutama leivälle tyypillinen ominaisuus:
+id voisi olla leivän tunniste (vrt. tietokannat)
+tyyppi (esim. reikäleipä, limppu, vuokaleipä tms.)
+hinta (esim. 2.99, 6.81)
+valmistusaineet (yhtenä merkkijonona lueteltuna kaikki valmistusaineet. Esim: suola, sokeri, jauhoparanne, e255)
+
+Tee luokalle myös getterit ja setterit, sekä muodostinfunktio, jolla voidaan kerralla antaa arvot kaikille attribuuteille
+
+Tee myös luokka Leipomo, jonka main-metodissa luodaan kaksi leipää
+käyttäen em. muodostinta. Lisää ohjelmaan (Leipomo) metodi, jolla voidaan tulostaa yhden leivän tiedot.
+lisää main-metodin loppuun koodi, joka tulostaa kummankin leivän tiedot käyttäen em. metodia.
